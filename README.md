@@ -1,3 +1,7 @@
+Developing a to-do list app to improve some React skills.
+
+![image](https://user-images.githubusercontent.com/51823158/182142513-6c6a682f-de2b-4ffd-b826-10334f122455.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
